@@ -5,6 +5,7 @@ TagManager:
   serializedVersion: 3
   tags:
   - Bottle
+  - Balloon
   layers:
   - Default
   - TransparentFX
