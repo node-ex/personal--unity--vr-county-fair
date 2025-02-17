@@ -4,6 +4,7 @@ using UnityEngine;
 public class RingTossBoothService : MonoBehaviour
 {
     public event Action<int> ScoreUpdated;
+
     [SerializeField] private GameObject[] rings;
     [SerializeField] private int scorePerRing = 10;
 
